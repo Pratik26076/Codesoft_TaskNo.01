@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="toggle_flash">Toggle Flash</string>
+</resources>
